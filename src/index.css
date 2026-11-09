@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Quicksand:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.font-name {
+    font-family: 'Cinzel', serif;
+}
